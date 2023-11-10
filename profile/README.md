@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-**FlagMotori** is a Iranian CTF team.
+**FlagMotori** is an Iranian CTF team.
 
 See our CTFtime profile at [ctftime.org](https://ctftime.org/team/222060).
 
